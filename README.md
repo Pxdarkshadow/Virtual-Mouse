@@ -2,7 +2,7 @@
 
 A Python-based virtual mouse that lets you control your computer cursor with hand gestures using your webcam. This project utilizes OpenCV for image processing, MediaPipe for real-time hand tracking, and PyAutoGUI to simulate mouse actions.
 
-![Demo Screenshot](./screenshots/demo.png) 
+[Demo Screenshot]() 
 
 ![Screenshot 2025-04-28 213314](https://github.com/user-attachments/assets/2749692b-8498-4314-b9ae-4f0354d3e869)
 
